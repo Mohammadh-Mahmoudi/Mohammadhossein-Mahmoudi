@@ -12,7 +12,7 @@ Currently developing firmware for ADS-B systems using STM32 microcontrollers at 
 - 🎓 Computer Engineering student  
 - 🔧 Focused on Embedded Systems, IoT, and low-level programming  
 - 🚀 Experienced with ESP32, NodeMCU, and Arduino-based IoT projects  
-- 📡 Interested in signal processing, microcontrollers, GPS, and communication protocols  
+- 📡 Interested in signal processing, microcontrollers, and communication protocols  
 - 📘 Always learning more about STM32 and advanced firmware development  
 
 ---
